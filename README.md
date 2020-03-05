@@ -1,5 +1,4 @@
-# listner
-ROS Helper
+# listner (ROS Helper)
 
 # Create a ROS Workspace
 mkdir -p ~/catkin_ws/src
